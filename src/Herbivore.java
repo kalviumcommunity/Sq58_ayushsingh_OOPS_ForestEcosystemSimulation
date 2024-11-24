@@ -18,7 +18,7 @@ public class Herbivore extends Animal {
     /**
      * Age variable.
      */
-    private int age;
+    private int  age;
 
     /**
      * Constructor takes in coordinates and stores them
