@@ -14,7 +14,7 @@ public class Herbivore extends Animal {
     /**
      * Default energy level of an Herbivore.
      */
-    private int energy = 10;
+    private int  energy = 10;
     /**
      * Age variable.
      */
