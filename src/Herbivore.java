@@ -10,7 +10,7 @@ public class Herbivore extends Animal {
     /**
      * Default symbol of an Herbivore "@."
      */
-    private char symbol = '@';
+    private char  symbol = '@';
     /**
      * Default energy level of an Herbivore.
      */
