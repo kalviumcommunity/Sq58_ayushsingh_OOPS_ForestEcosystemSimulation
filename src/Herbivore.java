@@ -6,7 +6,7 @@ public class Herbivore extends Animal {
      * X coordinate
      * Y coordinate
      */
-    private int x, y;
+    private int x,  y;
     /**
      * Default symbol of an Herbivore "@."
      */
