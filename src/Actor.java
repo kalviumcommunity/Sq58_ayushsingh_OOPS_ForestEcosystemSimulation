@@ -3,6 +3,7 @@ import java.util.Random;
 /**
  * Created by porrith on 4/6/15.
  */
+
 public class Actor {
     /**
      * Default char symbol of the Actor.
