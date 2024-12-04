@@ -3,7 +3,7 @@ import java.util.Random;
 /**
  * Created by porrith on 4/6/15.
  */
-public class Obstacle extends Actor {
+public class Obstacle extends Actor{
     /**
      * X coordinate.
      * Y Coordinate.
