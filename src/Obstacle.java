@@ -8,12 +8,13 @@ public class Obstacle extends Actor{
      * X coordinate.
      * Y Coordinate.
      */
-    
+
     private int x, y;
     /**
-     * Age of the obstacle.
+     * Age of the obstacle
      */
     private int age;
+    
     /**
      * Default char is "#".
      */
