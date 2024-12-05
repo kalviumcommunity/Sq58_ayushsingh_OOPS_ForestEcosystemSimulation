@@ -4,6 +4,7 @@ import java.util.Random;
  * Created by porrith on 4/6/15.
  */
 public class Obstacle extends Actor{
+    
     /**
      * X coordinate.
      * Y Coordinate.
@@ -14,7 +15,7 @@ public class Obstacle extends Actor{
      * Age of the obstacle
      */
     private int age;
-    
+
     /**
      * Default char is "#".
      */
