@@ -4,13 +4,13 @@ import java.util.Random;
  * Created by porrith on 4/6/15.
  */
 public class Obstacle extends Actor{
-    
+
     /**
      * X coordinate.
      * Y Coordinate.
      */
 
-    private int x, y;
+    private int x,y;
     /**
      * Age of the obstacle
      */
