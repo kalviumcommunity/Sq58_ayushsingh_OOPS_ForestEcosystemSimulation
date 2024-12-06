@@ -53,6 +53,7 @@ public class Carnivore extends Animal {
         setAge(age);
         setSymbol(symbol);
     }
+    
 
     /**
      * Returns the energy of the object.
